@@ -17,11 +17,11 @@
             <table class="table table-bordered table-hover table-striped mb-0 bg-white">
                 <thead>
                     <tr>
-                        <th>First Name</th>
-                        <th>Last Name</th>
+                        <th>Nama Pertama</th>
+                        <th>Nama Terakhir</th>
                         <th>Email</th>
-                        <th>Age</th>
-                        <th>Position</th>
+                        <th>Umur</th>
+                        <th>Posisi</th>
                         <th></th>
                     </tr>
                 </thead>
