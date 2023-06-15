@@ -45,7 +45,7 @@ class EmployeeController extends Controller
     public function store(Request $request)
     {
         $messages = [
-            'required' => ':Attribute harus diisi.',
+            'required' => ':Attribute wajib diisi.',
             'email' => 'Isi :attribute dengan format yang benar',
             'numeric' => 'Isi :attribute angka'
         ];
